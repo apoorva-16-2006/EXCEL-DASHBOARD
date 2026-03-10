@@ -124,7 +124,7 @@ The dashboard highlights **top performing outlets, profitable cities, gender-bas
 ---
 
 ## 📷 Dashboard Preview
-![Adidas Sales Dashboard](https://github.com/apoorva-16-2006/EXCEL-DASHBOARD/blob/main/SALES/adidas_sales_dashboard_picture.png)
+![Adidas Sales Dashboard](https://github.com/apoorva-16-2006/EXCEL-DASHBOARD/blob/main/SALES/Adidas_Sales_Dashbroard_pictures.png)
 
 ---
 
